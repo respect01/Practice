@@ -8,6 +8,9 @@ public class practice01 {
 		System.out.println("sadfasfas");
 		
 		System.out.println("icardiyolog");
+		
+		
+		System.out.println("essekbahcem");
 	}
 
 }
