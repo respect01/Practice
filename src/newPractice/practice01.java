@@ -6,6 +6,8 @@ public class practice01 {
 		
 		
 		System.out.println("sadfasfas");
+		
+		System.out.println("icardiyarrak");
 	}
 
 }
